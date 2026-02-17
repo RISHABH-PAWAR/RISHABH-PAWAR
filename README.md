@@ -31,9 +31,9 @@
 
 <br/>
 
-- 🏗️ &nbsp;I'm a Computer Science undergraduate who builds at the intersection of **Full-stack engineering and applied AI** not just connecting APIs to frontends, but architecting systems where retrieval, reasoning, and real-time web interfaces work as one.
-- 🧠 &nbsp;I've shipped multi-tenant SaaS platforms, hybrid RAG pipelines evaluated at **85%+ relevancy**, and LangGraph-orchestrated agentic workflows all production-grade, all from scratch. My stack spans LangChain, FastAPI, Next.js, and vector databases, and I bring the same engineering discipline to backend APIs as I do to LLM prompt design and retrieval strategy.
-- 🎯 &nbsp;I'm graduating in 2026 and actively targeting roles where I can work on hard AI-integrated products the kind that require both strong web engineering fundamentals and genuine understanding of how LLMs behave in production.
+- &nbsp;I'm a Computer Science undergraduate who builds at the intersection of **Full-stack engineering and applied AI** not just connecting APIs to frontends, but architecting systems where retrieval, reasoning, and real-time web interfaces work as one.
+- &nbsp;I've shipped multi-tenant SaaS platforms, hybrid RAG pipelines evaluated at **85%+ relevancy**, and LangGraph-orchestrated agentic workflows all production-grade, all from scratch. My stack spans LangChain, FastAPI, Next.js, and vector databases, and I bring the same engineering discipline to backend APIs as I do to LLM prompt design and retrieval strategy.
+- &nbsp;I'm graduating in 2026 and actively targeting roles where I can work on hard AI-integrated products the kind that require both strong web engineering fundamentals and genuine understanding of how LLMs behave in production.
 
 <br/>
 
